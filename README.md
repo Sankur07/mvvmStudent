@@ -1,2 +1,2 @@
 # mvvmStudent
-This app is related mvvm , livedata, and dataabings example
+This app is related mvvm , livedata, and databinding example
