@@ -1,0 +1,33 @@
+com/example/studentcarrier/BuildConfig.java
+ com.example.studentcarrier.BuildConfig
+com/example/studentcarrier/BR.java
+ com.example.studentcarrier.BR
+com/example/studentcarrier/databinding/ActivityLoginBindingImpl.java
+ com.example.studentcarrier.databinding.ActivityLoginBindingImpl
+ com.example.studentcarrier.databinding.ActivityLoginBindingImpl$1
+ com.example.studentcarrier.databinding.ActivityLoginBindingImpl$2
+com/example/studentcarrier/databinding/ActivityLoginBinding.java
+ com.example.studentcarrier.databinding.ActivityLoginBinding
+com/example/studentcarrier/DataBindingTriggerClass.java
+ com.example.studentcarrier.DataBindingTriggerClass
+com/example/studentcarrier/databinding/ActivityRegistrationBinding.java
+ com.example.studentcarrier.databinding.ActivityRegistrationBinding
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+com/example/studentcarrier/DataBinderMapperImpl.java
+ com.example.studentcarrier.DataBinderMapperImpl
+ com.example.studentcarrier.DataBinderMapperImpl$InnerBrLookup
+ com.example.studentcarrier.DataBinderMapperImpl$InnerLayoutIdLookup
+com/example/studentcarrier/generated/callback/OnClickListener.java
+ com.example.studentcarrier.generated.callback.OnClickListener
+ com.example.studentcarrier.generated.callback.OnClickListener$Listener
+com/example/studentcarrier/databinding/ActivityRegistrationBindingImpl.java
+ com.example.studentcarrier.databinding.ActivityRegistrationBindingImpl
+ com.example.studentcarrier.databinding.ActivityRegistrationBindingImpl$1
+ com.example.studentcarrier.databinding.ActivityRegistrationBindingImpl$2
+ com.example.studentcarrier.databinding.ActivityRegistrationBindingImpl$3
+ com.example.studentcarrier.databinding.ActivityRegistrationBindingImpl$4
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
