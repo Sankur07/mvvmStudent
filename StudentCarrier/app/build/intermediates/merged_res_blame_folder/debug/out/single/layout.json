@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\StudentCarrier\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_registration.xml",
+        "source": "D:\\StudentCarrier\\app\\src\\main\\res\\layout\\activity_registration.xml"
+    },
+    {
+        "merged": "D:\\StudentCarrier\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "D:\\StudentCarrier\\app\\src\\main\\res\\layout\\activity_login.xml"
+    }
+]
